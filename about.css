@@ -107,3 +107,20 @@ body{
 
    }
 
+   @media screen and (max-width: 992px) {
+    .main,
+    .container1,
+    .container2 {
+        padding: 20px;
+    }
+
+    .container1,
+    .text {
+        width: 100%;
+    }
+
+    .item {
+        width: 45%;
+    }
+}
+
